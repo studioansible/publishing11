@@ -1,0 +1,18 @@
+galaxy_info:
+  role_name: end_role
+  author: studioansible
+  description: descdaaeffd
+  company: '-'
+  issue_tracker_url: '-'
+  license: MIT
+  min_ansible_version: '-'
+  min_ansible_container_version: '-'
+  github_branch: '-'
+  galaxy_tags:
+    - final
+    - hopefully
+  platforms:
+    - name: macOS
+      versions:
+        - all
+dependencies: []
